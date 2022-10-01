@@ -13,6 +13,8 @@ At the moment there are no known bugs.
 It was developed using HTML5 and CSS3.
 ## Support and contact details
 For any support concerning source code and request to collaborate, contact me via: albertnjanek@gmail.com.
+## Github Pages
+The site is live at : https://albertnjanekimani.github.io/portfolio/
 ### License
 *This project uses MIT license.*
 Copyright (c) 2022 **Albert Njane**
