@@ -33,3 +33,6 @@ header {
 .navigation a:hover{
     color: #601cfc;
 }
+section {
+    padding: 100px 200px;
+}
