@@ -4,7 +4,7 @@
 ## Description
 This is a web portfolio for helping me showcase my work and skills. It will help people know more about my skills, my works and my profession.
 ## Setup/Installation Requirements
-* Clone the project repository in your local machine.
+* Clone the project repository into your local machine ie git clone https://github.com/AlbertNjaneKimani/portfolio.git
 * Navigate to index.html file.
 * Open the index.html file using suitable supported browser preferrable Google Chrome.
 ## Known Bugs
