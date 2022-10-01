@@ -15,3 +15,10 @@ header {
     align-items: center;
     padding: 10px 200px ;
 }
+.banner{
+    text-decoration: none;
+    color: #3a6cf4;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
